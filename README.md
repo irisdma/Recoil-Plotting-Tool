@@ -37,3 +37,5 @@ Go head and play then skid my shit **(if you sell this, I wish you the best of l
 ### Note: This will most definitley be blocked on these games
 Apex Legends, Fortnite, Rust, Dead by Daylight, Halo: The Master Chief Collection, Fall Guys, New World, Outriders, 
 Spellbreak, Ark: Survival Evolved, Predator: Hunting Grounds, Valorant, League of Legends, CS2 (Faceit)
+
+Also, this is lowkey shit I will release one for CS2 (VAC)
