@@ -39,5 +39,6 @@ Apex Legends, Fortnite, Rust, Dead by Daylight, Halo: The Master Chief Collectio
 Spellbreak, Ark: Survival Evolved, Predator: Hunting Grounds, Valorant, League of Legends, CS2 (Faceit)
 
 Also, this is lowkey shit I will release one for CS2 (VAC)
+
 ![AK-47 Recoil Compensation](https://cdn.discordapp.com/attachments/1378082147533066280/1384557160591003729/ak47-compensation-curve.gif?ex=6852dcd6&is=68518b56&hm=1fe91c87d006283122c71b7700f647394424ede28d176e884601bd0bbdb42f79)
 
